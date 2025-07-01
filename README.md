@@ -1,6 +1,6 @@
 # 🎫 Mini Event Booking System
 
-A full-stack application to create and book events with limited seating — built using **NestJS (backend)** and **Next.js (frontend)**. Uses in-memory storage (array) with no external database.
+A full-stack application to create and book events with limited seating , built using **NestJS (backend)** and **Next.js (frontend)**. Uses in-memory storage (array) with no external database.
 
 ---
 
@@ -73,14 +73,6 @@ POST /events/:id/book
 ```
 
 Returns error if event is full.
-
----
-
-## 📸 Screenshot
-
-![UI Screenshot](./screenshot.png)
-
----
 
 ## 🛠️ Tech Stack
 
